@@ -1,2 +1,2 @@
 # Web Scraping Using Python3 and BeautifulSoup4
- Introductory tutorial to webscraping and python beautifulsoup library. 
+ Introductory tutorial to webscraping using python3 and beautifulsoup4 library. 
